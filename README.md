@@ -1,1 +1,2 @@
-# minimal-homepage
+# houseblend
+Landing Page
