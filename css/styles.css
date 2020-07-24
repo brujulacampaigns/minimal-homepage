@@ -555,7 +555,7 @@ pre code {
 
 .editedtext{
   font-family: 'Roboto';
-  padding: 4rem;
+  padding: 1rem;
   padding-top: 2rem;
   padding-bottom: 0rem;
   text-align: justify;
@@ -563,7 +563,7 @@ pre code {
 .editedtextesp{
   margin-top: -2rem;
   font-family: 'Roboto';
-  padding: 4rem;
+  padding: 1rem;
   padding-top: 2rem;
   padding-bottom: 0rem;
   text-align: justify;
@@ -571,7 +571,7 @@ pre code {
 .editedtextprime{
   margin-top: -1rem;
   font-family: 'Roboto';
-  padding: 4rem;
+  padding: 1rem;
   padding-top: 2rem;
   padding-bottom: 0rem;
   text-align: justify;
